@@ -8,7 +8,7 @@ This integration retrieves updated weather alerts every minute from the US NWS A
 
 The integration presents the number of currently active alerts as the state of the sensor and lists many alert details as a list in the attributes of the sensor.
 
-##Installation:
+## Installation:
 
 Manually:
 
@@ -24,7 +24,7 @@ HACS:
   
 After installing the integration you can then configure it using the instructions in the following section.
 
-##Configuration:
+## Configuration:
 
 Manually via an entry in your configuration.yaml file:
 
