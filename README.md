@@ -1,8 +1,8 @@
-Alerts from the US National Weather Service (nws_alerts)
+Alerts from the US National Weather Service (nws_alerts_coordinates)
 
 An updated version of the nws_alerts custom integration for Home Assistant originally found at github.com/finity69x2/nws_alerts
 
-This version will allow the user to use a precise GPS coordinate to get alkerts for that specific location.
+This version will allow the user to use a precise GPS coordinate to get alerts for that specific location.
 
 This integration retrieves updated weather alerts every minute from the US NWS API.
 
