@@ -1,0 +1,12 @@
+API_ENDPOINT = "https://api.weather.gov"
+USER_AGENT = "Home Assistant"
+DEFAULT_ICON = "mdi:alert"
+DEFAULT_NAME = "NWS Alerts Coordinates"
+CONF_GPS_LOC = "gps_loc"
+GPS_LOC = ""
+VERSION = "1.4"
+ISSUE_URL = "https://github.com/finity69x2/nws_alert_coord"
+DOMAIN = "nws_alerts_coord"
+PLATFORM = "sensor"
+ATTRIBUTION = "Data provided by Weather.gov"
+
