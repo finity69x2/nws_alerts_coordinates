@@ -31,7 +31,7 @@ Manually via an entry in your configuration.yaml file:
 To create a sensor instance add the following configuration to your sensor definitions using the GPS coordinates for your location:
 
 ```
-- platform: nws_alerts_coordinates
+- platform: nws_alerts_coord
   gps_loc: '40.813274031868524,-86.54172988854643' # in format of 'latitute,longitude'
 ```
   
@@ -40,7 +40,7 @@ After you restart Home Assistant then you should have a new sensor called "senso
 You can override the sensor default name ("sensor.nws_alerts_coordinates") to one of your choosing by setting the "name:" option:
 
 ```
-- platform: nws_alerts_coordinates
+- platform: nws_alerts_coord
   gps_loc: '40.813274031868524,-86.54172988854643' # in format of 'latitute,longitude'
   name: My NWS Alerts Sensor
 ```
