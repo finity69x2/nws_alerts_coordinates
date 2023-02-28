@@ -1,7 +1,7 @@
 {
     "domain": "nws_alerts_coordinates",
     "name": "NWS Alerts Coordinates",
-    "version": "1.1",
+    "version": "1.2",
     "documentation": "https://github.com/finity69x2/nws_alerts_coordinates/",
     "issue_tracker": "https://github.com/finity69x2/nws_alerts_coordinates/issues",
     "dependencies": [],
