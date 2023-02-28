@@ -6,7 +6,7 @@ CONF_GPS_LOC = "gps_loc"
 GPS_LOC = ""
 VERSION = "1.4"
 ISSUE_URL = "https://github.com/finity69x2/nws_alert_coord"
-DOMAIN = "nws_alerts_coord"
+DOMAIN = "nws_alerts_coordinates"
 PLATFORM = "sensor"
 ATTRIBUTION = "Data provided by Weather.gov"
 
